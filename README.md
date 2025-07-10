@@ -2,7 +2,7 @@
 
 > A command-line tool for searching files on IRCHighway's `#ebooks`
 
-[![Version](https://img.shields.io/badge/python-3.13-blue)](https://npmjs.org/package/file-search-cli)
+[![Version](https://img.shields.io/badge/python-3.13-blue)](https://www.python.org/downloads/release/python-3130/)
 
 ## Installation
 1. Install python
