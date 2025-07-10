@@ -2,16 +2,7 @@
 
 > A command-line tool for searching files on IRCHighway's `#ebooks`
 
-[![Version](https://img.shields.io/npm/v/file-search-cli.svg)](https://npmjs.org/package/file-search-cli)
-[![License](https://img.shields.io/npm/l/file-search-cli.svg)](https://github.com/username/file-search-cli/blob/main/LICENSE)
-
-## Description
-
-Brief description of what your CLI tool does and why it's useful.
-
-## Features
-
-- 🔍 Search sources
+[![Version](https://img.shields.io/badge/python-3.13-blue)](https://npmjs.org/package/file-search-cli)
 
 ## Installation
 1. Install python
@@ -61,4 +52,3 @@ python main.py --title "Piranesi" --author "Susanna Clarke" -r
 ### Configuration File
 
 Add your source `txt` files to `sources` folder
-```
